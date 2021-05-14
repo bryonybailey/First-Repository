@@ -1,0 +1,88 @@
+body{
+    background-color:burlywood ;
+    margin:0px;
+    background-image: url('Background.jpg');
+}
+
+.imgfan{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.VanBuren{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 5%;
+}
+.Online{
+    display: block;
+    margin-left: auto;
+    margin-right:auto;
+    width: 5%;
+}
+.Tactics{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+
+.Extreme{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
+.BOS2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+.PAP{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.menu {
+    background-color: black;
+    width: 100%;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+a{
+    color:black;
+    padding:20px;
+    align-content: flex-start;
+}
+
+p{ 
+    font-style: inherit;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+
+
+h3{
+    color: white;
+    text-align: center;
+    font-size: 23px;
+}
+
+h2{
+    text-align: center;
+    font-style: oblique;
+    border-radius: 15px;
+    border-style: groove;
+    border-color: red;
+    border-left: black;
+    border-right: white;
+    color: white;
+}
