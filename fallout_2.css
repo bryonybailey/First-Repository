@@ -1,0 +1,30 @@
+p {
+    font-style: inherit;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    
+}
+h2{
+    text-align: center;
+    font-style: oblique;
+    border-radius: 15px;
+    border-style: groove;
+    border-color: red;
+    border-left: black;
+    border-right: white;
+    color: white;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    
+}
+body{
+    background-color: slategrey ;
+    background-image: url('Background.jpg');
+
+}
+.FO2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 15%;
+}
